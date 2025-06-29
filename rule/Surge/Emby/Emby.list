@@ -6,13 +6,14 @@
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 34
 # PROCESS-NAME: 1
-# TOTAL: 3
-DOMAIN,makima.online
-DOMAIN,cinema.makima.online
-DOMAIN,theater.makima.online
-DOMAIN,anime.makima.online
-DOMAIN,celluloid.makima.online
-DOMAIN,restrict.makima.online
+# TOTAL: 
+DOMAIN,313445,proxy
+DOMAIN,makima.online,direct
+DOMAIN,cinema.makima.online,direct
+DOMAIN,theater.makima.online,direct
+DOMAIN,anime.makima.online,direct
+DOMAIN,celluloid.makima.online,direct
+DOMAIN,restrict.makima.online,direct
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN-SUFFIX,agahk1.jmsooo.com
 DOMAIN-SUFFIX,agajp1.jmsooo.com
