@@ -7,6 +7,7 @@
 # DOMAIN-SUFFIX: 20
 # TOTAL: 23
 payload:
+  - DOMAIN,manus.im
   - DOMAIN,chatgpt.livekit.cloud
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
