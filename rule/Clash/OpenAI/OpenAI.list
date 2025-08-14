@@ -6,6 +6,7 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 20
 # TOTAL: 23
+DOMAIN-SUFFIX,manus
 DOMAIN,manus.im
 DOMAIN,chatgpt.livekit.cloud
 DOMAIN,static.cloudflareinsights.com
