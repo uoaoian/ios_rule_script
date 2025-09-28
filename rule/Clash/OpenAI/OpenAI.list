@@ -8,6 +8,7 @@
 # TOTAL: 23
 DOMAIN-KEYWORD,manus
 DOMAIN,manus.im
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN,chatgpt.livekit.cloud
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
